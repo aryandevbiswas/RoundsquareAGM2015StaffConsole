@@ -9,7 +9,7 @@ goto START
 goto LAUNCH
 :LAUNCH 
 start iexplore.exe -k http://aryanbiswasapi.co.nf/RSIHS/staff/webapp/
-tasklist /FI "IMAGENAME eq firefox.exe" 2>NUL | find /I /N "firefox.exe">NUL
+tasklist /FI "IMAGENAME eq ixplore.exe" 2>NUL | find /I /N "ixplore.exe">NUL
 if "%ERRORLEVEL%"=="0" goto EXIT 
 :EXIT
 exit
