@@ -35,3 +35,11 @@ Native Application for Android -
 Currently, There is no support for Apple iOS but the webapp supports Safari's "iOS Mobile Web" and has Web icons embeeded with HTML meta tags
 
 ===============================
+
+Got questions ? Contact Me
+
+Aryan Biswas
+
+aryandevbiswas@gmail.com
++971567710591
+PO-BOX : 26707 (Dubai, United Arab Emirates)
