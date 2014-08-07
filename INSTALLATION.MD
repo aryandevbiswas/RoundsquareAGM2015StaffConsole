@@ -39,7 +39,7 @@ Installation -
       
     Installation
       From any of the following Official Release Pages, Download required Installer
-        https://github.com/aryandevbiswas/RoundsquareAGM2015StaffConsole/binaries/linux/
+        https://github.com/aryandevbiswas/RoundsquareAGM2015StaffConsole/binaries/OSX/
         https://www.dropbox.com/sh/el7d85vhi98t3f3/AABPZXGzam3HvZlIugqmWXLXa
         
         Or, Login to the Web Console and Download Required Installer
@@ -53,7 +53,7 @@ Installation -
       
     Installation
       From any of the following Official Release Pages, Download required Installer
-        https://github.com/aryandevbiswas/RoundsquareAGM2015StaffConsole/binaries/linux/
+        https://github.com/aryandevbiswas/RoundsquareAGM2015StaffConsole/binaries/android/
         https://www.dropbox.com/sh/el7d85vhi98t3f3/AABPZXGzam3HvZlIugqmWXLXa
         
         Or, Login to the Web Console and Download Required Installer
