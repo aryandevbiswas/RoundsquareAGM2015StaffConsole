@@ -9,7 +9,7 @@ Built for the Indian High School - Dubai
 Aims - 
 
 Provide Native Applications for Windows, OSX, Linux, Android and iOS that launches - 
-      http://aryanbiswasapi.co.nf/RSIHS/staff/webapp/
+      http://ihsroundsquare.net/staff/webapp/
 in their application / fullscreen mode.
 
 ==============================
