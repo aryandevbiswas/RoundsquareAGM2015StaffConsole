@@ -8,7 +8,7 @@ goto START
 :START
 goto LAUNCH
 :LAUNCH 
-start chrome.exe --app=http://aryanbiswasapi.co.nf/RSIHS/staff/webapp/
+start chrome.exe --app=http://ihsroundsquare.net/staff/webapp/
 tasklist /FI "IMAGENAME eq chrome.exe" 2>NUL | find /I /N "chrome.exe">NUL
 if "%ERRORLEVEL%"=="0" goto EXIT 
 :EXIT
