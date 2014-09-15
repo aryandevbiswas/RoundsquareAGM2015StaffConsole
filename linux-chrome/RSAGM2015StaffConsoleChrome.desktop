@@ -1,7 +1,7 @@
 #!/usr/bin/env xdg-open
 [Desktop Entry]
-Version=1.1
-Name=Roundsquare AGM 2015 Staff Console
+Version=1.3-beta
+Name=Round Square AGM 2015 Staff Console
 Type=Application
 Icon=~/.RSAGM2015/StaffConsoleChrome/assets/icon.png
 MimeType=
