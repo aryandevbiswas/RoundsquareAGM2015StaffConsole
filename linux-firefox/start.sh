@@ -1,6 +1,6 @@
 #################################################################
 #Built By Aryan Biswas (http://aryanbiswasgroup.co.nf/)		#
 #Copyright 2014 Indian High School (http://ihsdxb.com/)		#
-#Roundsquare AGM 2015 Staff Console Ver 1.2 (Linux,Chrome)	#
+#Round Square AGM 2015 Staff Console Ver 1.2 (Linux,Chrome)	#
 #################################################################
-firefox -url http://ihsroundsquare.net/staff/webapp/ -fullscreen
+firefox -url http://staff.ihsroundsquare.net/webapp/?version=1.3-beta -fullscreen
