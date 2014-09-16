@@ -40,6 +40,6 @@ Got questions ? Contact Me
 
 Aryan Biswas
 
-aryandevbiswas@gmail.com
+admin@ihsroundsquare.net
 +971567710591
 PO-BOX : 26707 (Dubai, United Arab Emirates)
